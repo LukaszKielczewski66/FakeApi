@@ -1,0 +1,10 @@
+{
+    "FoilPrices": [
+        {
+            "id": 1,
+            "width": 465,
+            "thickness": 30,
+            "price": 10
+        }
+    ]
+}
