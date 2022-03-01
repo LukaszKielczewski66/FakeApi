@@ -1,14 +1,8 @@
 {
     "foilPrices": [
         {
-            "id": 1,
-            "width": 465,
-            "thickness": 30
-        },
-        {
-            "id": 2,
-            "width": 520,
-            "thickness": 35
+            "width": [465, 480, 500],
+            "thickness": [20, 25, 30 ,35]
         }
     ]
 }
